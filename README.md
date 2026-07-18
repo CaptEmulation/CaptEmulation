@@ -1,5 +1,3 @@
-# John Dean
-
 **Principal Architect and hands-on systems engineer**
 
 For 25+ years, I’ve worked across developer tooling, embedded systems, smartphones,
