@@ -2,8 +2,6 @@
 
 **Principal Architect and hands-on systems engineer**
 
-I build production platforms, developer tools, applied AI systems, and distributed software.
-
 For 25+ years, I’ve worked across developer tooling, embedded systems, smartphones,
 streaming products, consumer platforms, cloud infrastructure, MLOps, creative tools,
 games, and AI agents.
@@ -14,7 +12,7 @@ I currently work as a Principal Architect on high-traffic consumer and platform 
 
 This is my original GitHub account.
 
-It contains earlier professional, open-source, and experimental work spanning:
+It contains current professional as well as my earlier open-source and experimental work spanning:
 
 - C++, Qt, embedded systems, and hardware tooling
 - Node.js libraries and developer infrastructure
@@ -25,15 +23,12 @@ It contains earlier professional, open-source, and experimental work spanning:
 Most of my recent independent work is published as
 [@0xFlicker](https://github.com/0xFlicker).
 
-The accounts represent different periods and audiences, but the engineering work
-belongs to the same person.
-
 ## Current focus
 
 - Production AI and agent systems
 - Developer platforms, APIs, and integrations
 - Distributed systems and cloud infrastructure
-- Search, delivery, monetization, and operational reliability
+- Delivery, monetization, and operational reliability
 - Games and interactive systems
 
 ## Selected earlier work
